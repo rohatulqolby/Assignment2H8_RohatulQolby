@@ -1,0 +1,43 @@
+table {
+    border: 0mm;
+}
+
+#navbar {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.navbar {
+    color: gray;
+    text-decoration: none;
+    margin: 10;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+#kontak {
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#submit {
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    width: 100%;
+}
+
+table {
+    width: 80%;
+}
+
+.tabel2 {
+    width: 100%;
+}
+
+.text {
+    float: left;
+}
